@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+build_tmp/
+*.lnk
+ffmpeg/
+批混剪工作室.exe
